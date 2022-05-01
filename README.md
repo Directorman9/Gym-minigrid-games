@@ -1,2 +1,2 @@
 # Gym-minigrid-games
-This notebook trains an agent to navigate a maze and reach a desired destination. It uses the Gym-MiniGrid's fourRoom-v0 environment as the maze. The agent is trained by using reiforcement learning's vanilla policy gradient (REINFORCE) algorithm.
+The notebook in this repository trains an agent to navigate a maze and reach a desired destination. It uses the Gym-MiniGrid's fourRoom-v0 environment as the maze. The agent is trained by using reiforcement learning's vanilla policy gradient (REINFORCE) algorithm. For more details have a look at <a href="https://colab.research.google.com/drive/1IZDCeNaEgMbBqSBojgrTlR0NvyXgfqHF?usp=sharing">the notebook</a>
